@@ -72,14 +72,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "Fresh Fish Market Saranda — Fish Shop Ardit" },
+      { name: "description", content: "Sea bream, sardines & Ionian octopus — caught this morning, sold fresh every day at Fish Shop Ardit, Sarandë Albania." },
+      { name: "author", content: "Fish Shop Ardit" },
+      { property: "og:title", content: "Fresh Fish Market Saranda — Fish Shop Ardit" },
+      { property: "og:description", content: "Sea bream, sardines & Ionian octopus — caught this morning, sold fresh every day at Fish Shop Ardit, Sarandë Albania." },
       { property: "og:type", content: "website" },
+      { property: "og:image", content: "https://freshfish.al/images/fresh-fish-shop-ardit-saranda-hero.webp" },
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:site", content: "@FishShopArdit" },
     ],
     links: [
       {
