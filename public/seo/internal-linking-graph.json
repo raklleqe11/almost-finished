@@ -1,0 +1,1029 @@
+{
+  "meta": {
+    "site": "https://freshfish.al",
+    "generated": "2026-05-15",
+    "total_nodes": 30,
+    "total_edges": 90,
+    "languages": [
+      "en",
+      "sq",
+      "it"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "fresh-vs-restaurant-fish-saranda",
+      "title_en": "Fresh Fish Shop vs Saranda Restaurants: The Real Difference",
+      "title_sq": "Dyqani i Peshkut vs Restorantet e Saranades: Dallimi i Vertete",
+      "title_it": "Pescheria vs Ristoranti di Saranda: La Vera Differenza",
+      "image": "fresh-vs-restaurant-fish-comparison-saranda.webp",
+      "category": "Comparison",
+      "tags": [
+        "fresh fish saranda",
+        "fish shop saranda",
+        "saranda restaurant",
+        "ionian seafood"
+      ]
+    },
+    {
+      "id": "local-fisherman-saranda-sea-bream",
+      "title_en": "The Fisherman Who Brings Sea Bream to Saranda Every Morning",
+      "title_sq": "Peshkatari Qe Sjell Tenje ne Sarande Cdo Mengjes",
+      "title_it": "Il Pescatore che Porta le Orate a Saranda Ogni Mattina",
+      "image": "local-fisherman-selling-sea-bream-saranda-morning.webp",
+      "category": "Behind the Counter",
+      "tags": [
+        "fisherman saranda",
+        "ionian sea fish",
+        "sea bream saranda",
+        "fresh fish supply"
+      ]
+    },
+    {
+      "id": "saranda-restaurant-fish-price-vs-fish-shop",
+      "title_en": "22 Euro at a Saranda Restaurant vs 6 Euro at the Fish Shop — Same Sea Bream",
+      "title_sq": "22 Euro ne Restorant vs 6 Euro ne Dyqanin e Peshkut — E Njejta Tenje",
+      "title_it": "22 Euro al Ristorante vs 6 Euro in Pescheria — La Stessa Orata",
+      "image": "restaurant-vs-fish-shop-price-sea-bream-saranda.webp",
+      "category": "Prices",
+      "tags": [
+        "fish prices saranda",
+        "sea bream price albania",
+        "saranda restaurant prices",
+        "fresh fish cost"
+      ]
+    },
+    {
+      "id": "tourist-trap-fish-restaurants-saranda",
+      "title_en": "5 Red Flags That a Saranda Seafood Restaurant Is a Tourist Trap",
+      "title_sq": "5 Sinjale Kuqe Qe Restoranti eshte Kurth Turistik",
+      "title_it": "5 Segnali d'Allarme: il Ristorante di Pesce e una Trappola per Turisti",
+      "image": "waiter-outside-tourist-trap-restaurant-saranda-promenade.webp",
+      "category": "Local Guide",
+      "tags": [
+        "tourist trap saranda",
+        "saranda restaurants",
+        "seafood saranda",
+        "best fish saranda"
+      ]
+    },
+    {
+      "id": "hidden-fish-shop-saranda-locals",
+      "title_en": "The Fish Shop Saranda Locals Use (That Tourists Walk Past Every Day)",
+      "title_sq": "Dyqani i Peshkut Qe Perdorin Venderet (Qe Turistet Kalojne Cdo Dite)",
+      "title_it": "La Pescheria Usata dai Locals di Saranda (Che i Turisti Passano Ogni Giorno)",
+      "image": "authentic-fish-shop-local-buyer-saranda-morning.webp",
+      "category": "Local Secret",
+      "tags": [
+        "fish shop saranda locals",
+        "best fish saranda",
+        "fresh fish saranda",
+        "saranda local tip"
+      ]
+    },
+    {
+      "id": "narrow-street-fish-shop-saranda",
+      "title_en": "Why the Best Fish in Saranda Is on a Street Tourists Walk Past",
+      "title_sq": "Pse Peshku me i Mire ne Sarande Ndodhet ne Rrugën Ku Turistet Kalojne",
+      "title_it": "Perche il Pesce Migliore di Saranda e in Una Strada che i Turisti Ignorano",
+      "image": "narrow-street-fish-shop-saranda-tourists-walk-past.webp",
+      "category": "Local Guide",
+      "tags": [
+        "fish shop saranda",
+        "fresh fish where to buy saranda",
+        "rruga idriz alidhima"
+      ]
+    },
+    {
+      "id": "albanian-riviera-fish-saranda",
+      "title_en": "Fresh Fish Along the Albanian Riviera: Saranda as the Best Base",
+      "title_sq": "Peshk i Fresket Pergjate Rivieres Shqiptare: Saranda si Baza me e Mire",
+      "title_it": "Pesce Fresco lungo la Riviera Albanese: Saranda Come Base Migliore",
+      "image": "albanian-riviera-coastline-fish-counter-golden-hour.webp",
+      "category": "Regional Guide",
+      "tags": [
+        "albanian riviera fish",
+        "saranda seafood",
+        "ionian sea albania",
+        "best seafood albania"
+      ]
+    },
+    {
+      "id": "ionian-sea-fish-why-different-saranda",
+      "title_en": "Why Ionian Sea Fish Tastes Different: What the Water Does",
+      "title_sq": "Pse Peshku i Detit Jonian Ka Shije Ndryshe: Cfare Ben Uji",
+      "title_it": "Perche il Pesce del Mar Ionio Ha un Sapore Diverso: Cosa Fa l'Acqua",
+      "image": "ionian-sea-school-sea-bream-crystal-clear-water-albania.webp",
+      "category": "Fish Knowledge",
+      "tags": [
+        "ionian sea fish",
+        "albania seafood quality",
+        "fresh fish taste",
+        "saranda fish quality"
+      ]
+    },
+    {
+      "id": "how-early-fishermen-saranda-wake-up",
+      "title_en": "Saranda Fishermen Leave at 3 AM: Why That Matters for You",
+      "title_sq": "Peshkataret e Saranades Nisin Oren 3: Pse Kjo ka Rendesi",
+      "title_it": "I Pescatori di Saranda Partono alle 3 di Notte: Perche e Importante",
+      "image": "fisherman-boat-leaving-saranda-harbor-3am-predawn.webp",
+      "category": "Behind the Counter",
+      "tags": [
+        "fishermen saranda",
+        "early morning fish saranda",
+        "fresh fish morning",
+        "saranda fish market hours"
+      ]
+    },
+    {
+      "id": "butrint-mussels-better-than-italy",
+      "title_en": "Butrint Mussels: Why Albanian Mussels Beat Italian Ones",
+      "title_sq": "Midhjet e Butrinti: Pse Midhjet Shqiptare Jane me te Mira se Italiane",
+      "title_it": "Cozze di Butrint: Perche le Cozze Albanesi Superano Quelle Italiane",
+      "image": "butrint-mussels-pile-wooden-fish-counter-albania.webp",
+      "category": "Seafood Guide",
+      "tags": [
+        "butrint mussels",
+        "albanian mussels",
+        "midhje saranda",
+        "fresh mussels saranda"
+      ]
+    },
+    {
+      "id": "what-happens-fish-not-sold-saranda",
+      "title_en": "What Happens to Fish That Does Not Sell at Saranda's Fish Counter",
+      "title_sq": "Cfare Ndodh me Peshkun Qe Nuk Shitet",
+      "title_it": "Cosa Succede al Pesce Che Non Viene Venduto",
+      "image": "end-of-day-fish-market-vendor-packing-up-saranda.webp",
+      "category": "Behind the Counter",
+      "tags": [
+        "fresh fish saranda",
+        "no day-old fish saranda",
+        "saranda fish market",
+        "fish counter policy"
+      ]
+    },
+    {
+      "id": "sea-bass-saranda-fresh",
+      "title_en": "Fresh Sea Bass in Saranda: What to Know Before You Buy",
+      "title_sq": "Levrek i Fresket ne Sarande: Cfare Duhet te Dini Para se te Blini",
+      "title_it": "Branzino Fresco a Saranda: Cosa Sapere Prima di Comprare",
+      "image": "whole-fresh-sea-bass-crushed-ice-fish-counter-saranda.webp",
+      "category": "Fish Guide",
+      "tags": [
+        "sea bass saranda",
+        "branzino albania",
+        "fresh sea bass ionian",
+        "levrek albania"
+      ]
+    },
+    {
+      "id": "fresh-calamari-saranda",
+      "title_en": "Fresh Calamari in Saranda: How to Buy, Clean and Cook It",
+      "title_sq": "Kallamar i Fresket ne Sarande: Si te Blini, Pastroni dhe Gatuani",
+      "title_it": "Calamari Freschi a Saranda: Come Comprarli, Pulirli e Cucinarli",
+      "image": "fresh-calamari-squid-ice-fish-counter-saranda-albania.webp",
+      "category": "Fish Guide",
+      "tags": [
+        "calamari saranda",
+        "fresh squid albania",
+        "kallamar saranda",
+        "ionian squid"
+      ]
+    },
+    {
+      "id": "red-mullet-albania-barbun",
+      "title_en": "Red Mullet in Albania: Why Barbun Is the Most Underrated Fish at the Counter",
+      "title_sq": "Barbuni ne Shqiperi: Pse Barbuni Eshte Peshku Me i Nenvleresuar",
+      "title_it": "Triglia in Albania: Perche il Barbun e il Pesce Piu Sottovalutato al Banco",
+      "image": "fresh-red-mullet-barbun-crushed-ice-saranda-fish-market.webp",
+      "category": "Fish Guide",
+      "tags": [
+        "red mullet albania",
+        "barbun saranda",
+        "triglia ionian",
+        "fresh mullet saranda"
+      ]
+    },
+    {
+      "id": "fresh-shrimp-saranda-albania",
+      "title_en": "Wild Ionian Shrimp in Saranda: Seasonal and Worth Waiting For",
+      "title_sq": "Karkaleca te Eger Jonian ne Sarande: Sezonal dhe Ia Vlen",
+      "title_it": "Gamberi Selvatici Ionici a Saranda: Stagionali e Vale la Pena Aspettare",
+      "image": "wild-ionian-shrimp-naturally-pink-wooden-crate-ice-saranda.webp",
+      "category": "Fish Guide",
+      "tags": [
+        "shrimp saranda",
+        "wild shrimp albania",
+        "karkaleca saranda",
+        "ionian prawns"
+      ]
+    },
+    {
+      "id": "fresh-anchovies-saranda-albania",
+      "title_en": "Fresh Anchovies in Saranda: Not What You Think They Are",
+      "title_sq": "Angula te Fresketa ne Sarande: Jo C'mendoni Se Jane",
+      "title_it": "Acciughe Fresche a Saranda: Non Quello Che Pensi Che Siano",
+      "image": "fresh-anchovies-pile-crushed-ice-fish-market-saranda.webp",
+      "category": "Fish Guide",
+      "tags": [
+        "fresh anchovies saranda",
+        "angula albania",
+        "ionian anchovies",
+        "sardines anchovies albania"
+      ]
+    },
+    {
+      "id": "grilled-octopus-saranda-how-locals-make-it",
+      "title_en": "How Locals Grill Octopus in Saranda: The Charcoal Method",
+      "title_sq": "Si Piqin Venderet Oktapodin ne Sarande: Metoda me Qymyr",
+      "title_it": "Come i Locals Grigliano il Polpo a Saranda: Il Metodo della Brace",
+      "image": "octopus-charcoal-grill-albanian-coast-outdoor-bbq-saranda.webp",
+      "category": "Recipe",
+      "tags": [
+        "grilled octopus saranda",
+        "albanian octopus recipe",
+        "oktapod albania",
+        "charcoal octopus"
+      ]
+    },
+    {
+      "id": "seafood-pasta-saranda-fresh-mussels",
+      "title_en": "Mussel Pasta with Butrint Mussels: The Saranda Home Kitchen Version",
+      "title_sq": "Makarona me Midhje Butrinti: Versioni i Kuzhinës Shtëpiake",
+      "title_it": "Pasta con le Cozze di Butrint: La Versione Casalinga di Saranda",
+      "image": "seafood-mussel-pasta-bowl-saranda-home-cooking.webp",
+      "category": "Recipe",
+      "tags": [
+        "mussel pasta saranda",
+        "butrint mussels recipe",
+        "seafood pasta albania",
+        "midhje makarona"
+      ]
+    },
+    {
+      "id": "mixed-seafood-platter-saranda-build-your-own",
+      "title_en": "How to Build a Mixed Seafood Platter from Saranda's Fish Counter",
+      "title_sq": "Si te Ndertoni Salle te Perzier Ushqimesh Deti nga Sporteli",
+      "title_it": "Come Creare un Vassoio di Frutti di Mare Misti dal Banco",
+      "image": "mixed-seafood-platter-outdoor-table-albanian-coast-saranda.webp",
+      "category": "Ideas",
+      "tags": [
+        "seafood platter saranda",
+        "mixed seafood albania",
+        "bbq seafood saranda",
+        "fish counter platter"
+      ]
+    },
+    {
+      "id": "fresh-fish-ksamil-where-to-get",
+      "title_en": "Fresh Fish in Ksamil: Where to Get It (Go to Saranda)",
+      "title_sq": "Peshk i Fresket ne Ksamil: Ku ta Gjeni (Shkoni ne Sarande)",
+      "title_it": "Pesce Fresco a Ksamil: Dove Trovarlo (Vai a Saranda)",
+      "image": "ksamil-islands-car-boot-fresh-fish-wrapped-market-saranda.webp",
+      "category": "Ksamil Guide",
+      "tags": [
+        "fresh fish ksamil",
+        "fish market near ksamil",
+        "saranda fish ksamil"
+      ]
+    },
+    {
+      "id": "seafood-near-butrint-archaeological-park",
+      "title_en": "Seafood Near Butrint Archaeological Park: The Mussels Worth the Trip",
+      "title_sq": "Ushqime Deti Prane Parkut Arkeologjik Butrint",
+      "title_it": "Frutti di Mare vicino al Parco Archeologico di Butrint",
+      "image": "seafood-near-butrint-archaeological-park.webp",
+      "category": "Day Trip",
+      "tags": [
+        "butrint seafood",
+        "butrint lagoon mussels",
+        "seafood near butrint"
+      ]
+    },
+    {
+      "id": "pesce-fresco-saranda-albania",
+      "title_en": "Pesce Fresco a Saranda: Complete Guide for Italian Visitors",
+      "title_sq": "Peshk i Fresket ne Sarande: Udhezues i Plote per Turistet Italiane",
+      "title_it": "Pesce Fresco a Saranda: Guida Completa per i Turisti Italiani",
+      "image": "pesce-fresco-saranda-albania.webp",
+      "category": "Italian Visitors",
+      "tags": [
+        "pesce fresco saranda",
+        "pescheria saranda albania",
+        "turisti italiani saranda"
+      ]
+    },
+    {
+      "id": "frischer-fisch-saranda-albanien",
+      "title_en": "Fresh Fish in Saranda for German Visitors",
+      "title_sq": "Peshk i Fresket ne Sarande per Vizitoret Gjermane",
+      "title_it": "Pesce Fresco a Saranda per i Visitatori Tedeschi",
+      "image": "frischer-fisch-saranda-albanien.webp",
+      "category": "German Visitors",
+      "tags": [
+        "frischer fisch saranda",
+        "albanien fisch",
+        "saranda deutschland"
+      ]
+    },
+    {
+      "id": "swieze-ryby-saranda-albania",
+      "title_en": "Fresh Fish in Saranda for Polish Visitors (Swieze Ryby)",
+      "title_sq": "Peshk i Fresket ne Sarande per Vizitoret Poloneze",
+      "title_it": "Pesce Fresco a Saranda per i Visitatori Polacchi",
+      "image": "swieze-ryby-saranda-albania.webp",
+      "category": "Polish Visitors",
+      "tags": [
+        "swieze ryby saranda",
+        "polska albania saranda",
+        "ryby albania"
+      ]
+    },
+    {
+      "id": "peshk-i-fresket-sarande-dyqan-ardit",
+      "title_en": "Fresh Fish Saranda - Fish Shop Ardit: Guide for Albanian Visitors",
+      "title_sq": "Peshk i Fresket Sarande - Dyqani Ardit",
+      "title_it": "Pesce Fresco Saranda - Pescheria Ardit per Visitatori Albanesi",
+      "image": "peshk-i-fresket-sarande-dyqan-ardit.webp",
+      "category": "Albanian Guide",
+      "tags": [
+        "peshk fresket sarande",
+        "dyqan peshku saranda",
+        "ardit saranda"
+      ]
+    },
+    {
+      "id": "saranda-fish-market-locals-only",
+      "title_en": "Saranda Fish Market: What the Locals Actually Do",
+      "title_sq": "Tregu i Peshkut i Saranades: Cfare Bejne Vertet Venderet",
+      "title_it": "Il Mercato del Pesce di Saranda: Cosa Fanno Davvero i Locali",
+      "image": "authentic-fish-shop-local-buyer-saranda-morning.webp",
+      "category": "Local Guide",
+      "tags": [
+        "saranda fish market",
+        "local fish saranda",
+        "fish counter saranda"
+      ]
+    },
+    {
+      "id": "summer-fish-saranda-what-to-buy-june-september",
+      "title_en": "What Fresh Fish to Buy in Saranda: June to September Guide",
+      "title_sq": "Cfare Peshku te Freskete te Blini ne Sarande: Udhezues Qershor-Shtator",
+      "title_it": "Che Pesce Fresco Comprare a Saranda: Guida da Giugno a Settembre",
+      "image": "summer-fish-saranda-what-to-buy-june-september.webp",
+      "category": "Seasonal Guide",
+      "tags": [
+        "summer fish saranda",
+        "seasonal fish albania",
+        "june fish saranda",
+        "best fish summer albania"
+      ]
+    },
+    {
+      "id": "fresh-fish-saranda-morning-routine",
+      "title_en": "The Saranda Morning Fish Routine: What to Do on Your First Day",
+      "title_sq": "Rutina e Mengjesit te Peshkut Sarande: Cfare te Beni Diten e Pare",
+      "title_it": "La Routine Mattutina del Pesce a Saranda: Cosa Fare il Primo Giorno",
+      "image": "fresh-fish-saranda-morning-routine.webp",
+      "category": "Visitor Guide",
+      "tags": [
+        "saranda morning routine",
+        "fresh fish morning saranda",
+        "saranda holiday tips"
+      ]
+    },
+    {
+      "id": "albanian-seafood-culture-fishermen",
+      "title_en": "Albanian Seafood Culture: How Coastal Families Have Always Eaten Fish",
+      "title_sq": "Kultura e Ushqimeve te Detit Shqiptare: Si Kane Ngrenë Peshk Familjet Bregdetare",
+      "title_it": "La Cultura del Mare Albanese: Come le Famiglie Costiere Hanno Sempre Mangiato il Pesce",
+      "image": "albanian-seafood-culture-fishermen-saranda.webp",
+      "category": "Culture",
+      "tags": [
+        "albanian seafood culture",
+        "saranda fish tradition",
+        "ionian fishing albania"
+      ]
+    },
+    {
+      "id": "villa-bbq-fish-saranda",
+      "title_en": "Villa BBQ in Saranda: How to Buy and Cook Fish for a Group",
+      "title_sq": "BBQ Ville ne Sarande: Si te Blini dhe Gatuani Peshk per Grup",
+      "title_it": "BBQ in Villa a Saranda: Come Comprare e Cucinare il Pesce per un Gruppo",
+      "image": "octopus-charcoal-grill-albanian-coast-outdoor-bbq-saranda.webp",
+      "category": "Villa Living",
+      "tags": [
+        "villa bbq saranda",
+        "grilled fish villa saranda",
+        "bbq fish albania",
+        "ksamil villa fish"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "fresh-vs-restaurant-fish-saranda",
+      "to": "tourist-trap-fish-restaurants-saranda",
+      "weight": 1
+    },
+    {
+      "from": "fresh-vs-restaurant-fish-saranda",
+      "to": "saranda-restaurant-fish-price-vs-fish-shop",
+      "weight": 1
+    },
+    {
+      "from": "fresh-vs-restaurant-fish-saranda",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "local-fisherman-saranda-sea-bream",
+      "to": "fresh-fish-saranda-morning-routine",
+      "weight": 1
+    },
+    {
+      "from": "local-fisherman-saranda-sea-bream",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "local-fisherman-saranda-sea-bream",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "saranda-restaurant-fish-price-vs-fish-shop",
+      "to": "tourist-trap-fish-restaurants-saranda",
+      "weight": 1
+    },
+    {
+      "from": "saranda-restaurant-fish-price-vs-fish-shop",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "saranda-restaurant-fish-price-vs-fish-shop",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "tourist-trap-fish-restaurants-saranda",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "tourist-trap-fish-restaurants-saranda",
+      "to": "saranda-restaurant-fish-price-vs-fish-shop",
+      "weight": 1
+    },
+    {
+      "from": "tourist-trap-fish-restaurants-saranda",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "hidden-fish-shop-saranda-locals",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "hidden-fish-shop-saranda-locals",
+      "to": "saranda-fish-market-locals-only",
+      "weight": 1
+    },
+    {
+      "from": "hidden-fish-shop-saranda-locals",
+      "to": "tourist-trap-fish-restaurants-saranda",
+      "weight": 1
+    },
+    {
+      "from": "narrow-street-fish-shop-saranda",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "narrow-street-fish-shop-saranda",
+      "to": "saranda-fish-market-locals-only",
+      "weight": 1
+    },
+    {
+      "from": "narrow-street-fish-shop-saranda",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "albanian-riviera-fish-saranda",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "albanian-riviera-fish-saranda",
+      "to": "butrint-mussels-better-than-italy",
+      "weight": 1
+    },
+    {
+      "from": "albanian-riviera-fish-saranda",
+      "to": "seafood-near-butrint-archaeological-park",
+      "weight": 1
+    },
+    {
+      "from": "ionian-sea-fish-why-different-saranda",
+      "to": "albanian-riviera-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "ionian-sea-fish-why-different-saranda",
+      "to": "local-fisherman-saranda-sea-bream",
+      "weight": 1
+    },
+    {
+      "from": "ionian-sea-fish-why-different-saranda",
+      "to": "albanian-seafood-culture-fishermen",
+      "weight": 1
+    },
+    {
+      "from": "how-early-fishermen-saranda-wake-up",
+      "to": "local-fisherman-saranda-sea-bream",
+      "weight": 1
+    },
+    {
+      "from": "how-early-fishermen-saranda-wake-up",
+      "to": "fresh-fish-saranda-morning-routine",
+      "weight": 1
+    },
+    {
+      "from": "how-early-fishermen-saranda-wake-up",
+      "to": "saranda-fish-market-locals-only",
+      "weight": 1
+    },
+    {
+      "from": "butrint-mussels-better-than-italy",
+      "to": "albanian-riviera-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "butrint-mussels-better-than-italy",
+      "to": "seafood-near-butrint-archaeological-park",
+      "weight": 1
+    },
+    {
+      "from": "butrint-mussels-better-than-italy",
+      "to": "seafood-pasta-saranda-fresh-mussels",
+      "weight": 1
+    },
+    {
+      "from": "what-happens-fish-not-sold-saranda",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "what-happens-fish-not-sold-saranda",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "what-happens-fish-not-sold-saranda",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "sea-bass-saranda-fresh",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "sea-bass-saranda-fresh",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "sea-bass-saranda-fresh",
+      "to": "villa-bbq-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "fresh-calamari-saranda",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "fresh-calamari-saranda",
+      "to": "mixed-seafood-platter-saranda-build-your-own",
+      "weight": 1
+    },
+    {
+      "from": "fresh-calamari-saranda",
+      "to": "grilled-octopus-saranda-how-locals-make-it",
+      "weight": 1
+    },
+    {
+      "from": "red-mullet-albania-barbun",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "red-mullet-albania-barbun",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "red-mullet-albania-barbun",
+      "to": "sea-bass-saranda-fresh",
+      "weight": 1
+    },
+    {
+      "from": "fresh-shrimp-saranda-albania",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "fresh-shrimp-saranda-albania",
+      "to": "mixed-seafood-platter-saranda-build-your-own",
+      "weight": 1
+    },
+    {
+      "from": "fresh-shrimp-saranda-albania",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "fresh-anchovies-saranda-albania",
+      "to": "local-fisherman-saranda-sea-bream",
+      "weight": 1
+    },
+    {
+      "from": "fresh-anchovies-saranda-albania",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "fresh-anchovies-saranda-albania",
+      "to": "albanian-seafood-culture-fishermen",
+      "weight": 1
+    },
+    {
+      "from": "grilled-octopus-saranda-how-locals-make-it",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "grilled-octopus-saranda-how-locals-make-it",
+      "to": "villa-bbq-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "grilled-octopus-saranda-how-locals-make-it",
+      "to": "mixed-seafood-platter-saranda-build-your-own",
+      "weight": 1
+    },
+    {
+      "from": "seafood-pasta-saranda-fresh-mussels",
+      "to": "butrint-mussels-better-than-italy",
+      "weight": 1
+    },
+    {
+      "from": "seafood-pasta-saranda-fresh-mussels",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "seafood-pasta-saranda-fresh-mussels",
+      "to": "mixed-seafood-platter-saranda-build-your-own",
+      "weight": 1
+    },
+    {
+      "from": "mixed-seafood-platter-saranda-build-your-own",
+      "to": "grilled-octopus-saranda-how-locals-make-it",
+      "weight": 1
+    },
+    {
+      "from": "mixed-seafood-platter-saranda-build-your-own",
+      "to": "villa-bbq-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "mixed-seafood-platter-saranda-build-your-own",
+      "to": "fresh-shrimp-saranda-albania",
+      "weight": 1
+    },
+    {
+      "from": "fresh-fish-ksamil-where-to-get",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "fresh-fish-ksamil-where-to-get",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "fresh-fish-ksamil-where-to-get",
+      "to": "seafood-near-butrint-archaeological-park",
+      "weight": 1
+    },
+    {
+      "from": "seafood-near-butrint-archaeological-park",
+      "to": "butrint-mussels-better-than-italy",
+      "weight": 1
+    },
+    {
+      "from": "seafood-near-butrint-archaeological-park",
+      "to": "fresh-fish-ksamil-where-to-get",
+      "weight": 1
+    },
+    {
+      "from": "seafood-near-butrint-archaeological-park",
+      "to": "albanian-riviera-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "pesce-fresco-saranda-albania",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "pesce-fresco-saranda-albania",
+      "to": "butrint-mussels-better-than-italy",
+      "weight": 1
+    },
+    {
+      "from": "pesce-fresco-saranda-albania",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "frischer-fisch-saranda-albanien",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "frischer-fisch-saranda-albanien",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "frischer-fisch-saranda-albanien",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "swieze-ryby-saranda-albania",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "swieze-ryby-saranda-albania",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "swieze-ryby-saranda-albania",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "peshk-i-fresket-sarande-dyqan-ardit",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "peshk-i-fresket-sarande-dyqan-ardit",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "peshk-i-fresket-sarande-dyqan-ardit",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "saranda-fish-market-locals-only",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "saranda-fish-market-locals-only",
+      "to": "fresh-vs-restaurant-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "saranda-fish-market-locals-only",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "summer-fish-saranda-what-to-buy-june-september",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "summer-fish-saranda-what-to-buy-june-september",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "summer-fish-saranda-what-to-buy-june-september",
+      "to": "mixed-seafood-platter-saranda-build-your-own",
+      "weight": 1
+    },
+    {
+      "from": "fresh-fish-saranda-morning-routine",
+      "to": "hidden-fish-shop-saranda-locals",
+      "weight": 1
+    },
+    {
+      "from": "fresh-fish-saranda-morning-routine",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "fresh-fish-saranda-morning-routine",
+      "to": "villa-bbq-fish-saranda",
+      "weight": 1
+    },
+    {
+      "from": "albanian-seafood-culture-fishermen",
+      "to": "ionian-sea-fish-why-different-saranda",
+      "weight": 1
+    },
+    {
+      "from": "albanian-seafood-culture-fishermen",
+      "to": "local-fisherman-saranda-sea-bream",
+      "weight": 1
+    },
+    {
+      "from": "albanian-seafood-culture-fishermen",
+      "to": "how-early-fishermen-saranda-wake-up",
+      "weight": 1
+    },
+    {
+      "from": "villa-bbq-fish-saranda",
+      "to": "mixed-seafood-platter-saranda-build-your-own",
+      "weight": 1
+    },
+    {
+      "from": "villa-bbq-fish-saranda",
+      "to": "fresh-fish-ksamil-where-to-get",
+      "weight": 1
+    },
+    {
+      "from": "villa-bbq-fish-saranda",
+      "to": "grilled-octopus-saranda-how-locals-make-it",
+      "weight": 1
+    }
+  ],
+  "adjacency": {
+    "fresh-vs-restaurant-fish-saranda": [
+      "tourist-trap-fish-restaurants-saranda",
+      "saranda-restaurant-fish-price-vs-fish-shop",
+      "hidden-fish-shop-saranda-locals"
+    ],
+    "local-fisherman-saranda-sea-bream": [
+      "fresh-fish-saranda-morning-routine",
+      "how-early-fishermen-saranda-wake-up",
+      "ionian-sea-fish-why-different-saranda"
+    ],
+    "saranda-restaurant-fish-price-vs-fish-shop": [
+      "tourist-trap-fish-restaurants-saranda",
+      "fresh-vs-restaurant-fish-saranda",
+      "hidden-fish-shop-saranda-locals"
+    ],
+    "tourist-trap-fish-restaurants-saranda": [
+      "fresh-vs-restaurant-fish-saranda",
+      "saranda-restaurant-fish-price-vs-fish-shop",
+      "hidden-fish-shop-saranda-locals"
+    ],
+    "hidden-fish-shop-saranda-locals": [
+      "fresh-vs-restaurant-fish-saranda",
+      "saranda-fish-market-locals-only",
+      "tourist-trap-fish-restaurants-saranda"
+    ],
+    "narrow-street-fish-shop-saranda": [
+      "hidden-fish-shop-saranda-locals",
+      "saranda-fish-market-locals-only",
+      "fresh-vs-restaurant-fish-saranda"
+    ],
+    "albanian-riviera-fish-saranda": [
+      "ionian-sea-fish-why-different-saranda",
+      "butrint-mussels-better-than-italy",
+      "seafood-near-butrint-archaeological-park"
+    ],
+    "ionian-sea-fish-why-different-saranda": [
+      "albanian-riviera-fish-saranda",
+      "local-fisherman-saranda-sea-bream",
+      "albanian-seafood-culture-fishermen"
+    ],
+    "how-early-fishermen-saranda-wake-up": [
+      "local-fisherman-saranda-sea-bream",
+      "fresh-fish-saranda-morning-routine",
+      "saranda-fish-market-locals-only"
+    ],
+    "butrint-mussels-better-than-italy": [
+      "albanian-riviera-fish-saranda",
+      "seafood-near-butrint-archaeological-park",
+      "seafood-pasta-saranda-fresh-mussels"
+    ],
+    "what-happens-fish-not-sold-saranda": [
+      "how-early-fishermen-saranda-wake-up",
+      "hidden-fish-shop-saranda-locals",
+      "fresh-vs-restaurant-fish-saranda"
+    ],
+    "sea-bass-saranda-fresh": [
+      "fresh-vs-restaurant-fish-saranda",
+      "ionian-sea-fish-why-different-saranda",
+      "villa-bbq-fish-saranda"
+    ],
+    "fresh-calamari-saranda": [
+      "fresh-vs-restaurant-fish-saranda",
+      "mixed-seafood-platter-saranda-build-your-own",
+      "grilled-octopus-saranda-how-locals-make-it"
+    ],
+    "red-mullet-albania-barbun": [
+      "ionian-sea-fish-why-different-saranda",
+      "fresh-vs-restaurant-fish-saranda",
+      "sea-bass-saranda-fresh"
+    ],
+    "fresh-shrimp-saranda-albania": [
+      "fresh-vs-restaurant-fish-saranda",
+      "mixed-seafood-platter-saranda-build-your-own",
+      "ionian-sea-fish-why-different-saranda"
+    ],
+    "fresh-anchovies-saranda-albania": [
+      "local-fisherman-saranda-sea-bream",
+      "how-early-fishermen-saranda-wake-up",
+      "albanian-seafood-culture-fishermen"
+    ],
+    "grilled-octopus-saranda-how-locals-make-it": [
+      "fresh-vs-restaurant-fish-saranda",
+      "villa-bbq-fish-saranda",
+      "mixed-seafood-platter-saranda-build-your-own"
+    ],
+    "seafood-pasta-saranda-fresh-mussels": [
+      "butrint-mussels-better-than-italy",
+      "fresh-vs-restaurant-fish-saranda",
+      "mixed-seafood-platter-saranda-build-your-own"
+    ],
+    "mixed-seafood-platter-saranda-build-your-own": [
+      "grilled-octopus-saranda-how-locals-make-it",
+      "villa-bbq-fish-saranda",
+      "fresh-shrimp-saranda-albania"
+    ],
+    "fresh-fish-ksamil-where-to-get": [
+      "hidden-fish-shop-saranda-locals",
+      "fresh-vs-restaurant-fish-saranda",
+      "seafood-near-butrint-archaeological-park"
+    ],
+    "seafood-near-butrint-archaeological-park": [
+      "butrint-mussels-better-than-italy",
+      "fresh-fish-ksamil-where-to-get",
+      "albanian-riviera-fish-saranda"
+    ],
+    "pesce-fresco-saranda-albania": [
+      "fresh-vs-restaurant-fish-saranda",
+      "butrint-mussels-better-than-italy",
+      "ionian-sea-fish-why-different-saranda"
+    ],
+    "frischer-fisch-saranda-albanien": [
+      "fresh-vs-restaurant-fish-saranda",
+      "ionian-sea-fish-why-different-saranda",
+      "hidden-fish-shop-saranda-locals"
+    ],
+    "swieze-ryby-saranda-albania": [
+      "fresh-vs-restaurant-fish-saranda",
+      "ionian-sea-fish-why-different-saranda",
+      "hidden-fish-shop-saranda-locals"
+    ],
+    "peshk-i-fresket-sarande-dyqan-ardit": [
+      "hidden-fish-shop-saranda-locals",
+      "fresh-vs-restaurant-fish-saranda",
+      "how-early-fishermen-saranda-wake-up"
+    ],
+    "saranda-fish-market-locals-only": [
+      "hidden-fish-shop-saranda-locals",
+      "fresh-vs-restaurant-fish-saranda",
+      "how-early-fishermen-saranda-wake-up"
+    ],
+    "summer-fish-saranda-what-to-buy-june-september": [
+      "how-early-fishermen-saranda-wake-up",
+      "ionian-sea-fish-why-different-saranda",
+      "mixed-seafood-platter-saranda-build-your-own"
+    ],
+    "fresh-fish-saranda-morning-routine": [
+      "hidden-fish-shop-saranda-locals",
+      "how-early-fishermen-saranda-wake-up",
+      "villa-bbq-fish-saranda"
+    ],
+    "albanian-seafood-culture-fishermen": [
+      "ionian-sea-fish-why-different-saranda",
+      "local-fisherman-saranda-sea-bream",
+      "how-early-fishermen-saranda-wake-up"
+    ],
+    "villa-bbq-fish-saranda": [
+      "mixed-seafood-platter-saranda-build-your-own",
+      "fresh-fish-ksamil-where-to-get",
+      "grilled-octopus-saranda-how-locals-make-it"
+    ]
+  }
+}
